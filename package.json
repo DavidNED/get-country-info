@@ -1,0 +1,15 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Country information",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "David Middelveld",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.0"
+  }
+}
